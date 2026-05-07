@@ -16,7 +16,7 @@ The dataset includes:
 - Weather conditions
 - Urban activity data
 
-Data is not included due to size constraints.
+Dataset is not included due to size constraints.
 
 ---
 
@@ -35,14 +35,6 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib
 
 ## Results
 The model captures patterns related to energy overload scenarios and provides predictive insights based on historical data.
-
----
-
-## How to Run
-1. Clone repo  
-2. Download dataset from Kaggle  
-3. Place it in `/data`  
-4. Run notebook  
 
 ---
 
