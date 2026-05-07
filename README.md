@@ -21,24 +21,16 @@ Dataset is not included due to size constraints.
 ---
 
 ## Methodology
-- Data cleaning & preprocessing  
+- Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Feature engineering  
-- Machine Learning model training  
-
----
+- Machine Learning model training and evaluation  
 
 ## Tools
-Python | Pandas | NumPy | Scikit-learn | Matplotlib
+Python | Pandas | NumPy | Scikit-learn | Matplotlib | Plotly  
 
----
+## Models
+XGBoost + other baseline models  
 
 ## Results
-The model captures patterns related to energy overload scenarios and provides predictive insights based on historical data.
-
----
-
-## Future Improvements
-- Try advanced models (XGBoost, LSTM)
-- Improve feature engineering
-- Add hyperparameter tuning
+The model identifies patterns related to energy overload scenarios and provides predictive insights based on historical data.
